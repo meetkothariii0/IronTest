@@ -16,6 +16,11 @@
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind"></a>
     <a href="https://groq.com/"><img src="https://img.shields.io/badge/AI-Groq_Llama3-F6522E?style=for-the-badge" alt="Groq"></a>
   </p>
+
+  <h3>🌐 Live Demo</h3>
+  <p>
+    <a href="https://iron-test-seven.vercel.app"><img src="https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel" alt="Deployed on Vercel"></a>
+  </p>
 </div>
 
 ---
